@@ -1,0 +1,1 @@
+from .func_stellar import angka_genap_game, start_command,help_command,roll_dice_game,gbk_game,text_massage,photo_message,document_message,sticker_message,error
